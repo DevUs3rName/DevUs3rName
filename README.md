@@ -37,7 +37,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=D3vUserName&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3vUserName&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D3vUserName&theme=dark&hide_border=true&layout=compact)
 
 ## 💰 You can help me by Donating
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/420username)
