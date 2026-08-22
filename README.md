@@ -3,7 +3,9 @@
 </p>
 
 # About Me:
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=160&lines=A+17yo+programmer+from+Poland+with+a+passion+for+software+development." width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=80&lines=A+17yo+programmer+from+Poland" width="90%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=80&lines=with+a+passion+for+software+development." width="90%" />
 
 
 
