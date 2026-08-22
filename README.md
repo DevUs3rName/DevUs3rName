@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./profile.png" width="300">
+</p>
+
+
 # 💫 About Me:
 ![AboutMe](https://img.shields.io/badge/A%2017yo%20programmer%20from%20Poland%20with%20a%20passion%20for%20software%20development.-000000?style=for-the-badge&logoColor=white)
 
