@@ -2,8 +2,8 @@
   <img src="./username.png" width="100%">
 </p>
 
-# About Me:
 <div align="center">
+# About Me:
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=80&lines=A+17yo+programmer+from+Poland" width="90%" />
 
@@ -14,7 +14,14 @@
 
 
 
+</div>
+
+<div align="center">
+
 # Tech Stack:
+</div>
+
+  
 ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -41,8 +48,10 @@
 
 ---
 
+<div align="center">
+  
 ## You can help me by Donating
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/420username)
 
-  
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
