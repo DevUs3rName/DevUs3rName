@@ -3,7 +3,7 @@
 </p>
 
 # About Me:
-![AboutMe](https://img.shields.io/badge/A%2017yo%20programmer%20from%20Poland%20with%20a%20passion%20for%20software%20development.-000000?style=for-the-badge&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=A+17yo+programmer+from+Poland+with+a+passion+for+software+development." width="70%" />
 
 
 
