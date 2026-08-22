@@ -14,6 +14,8 @@
 
 <h1 align="center">Tech Stack:</h1>
 
+<div align="center">
+
 ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -37,6 +39,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
