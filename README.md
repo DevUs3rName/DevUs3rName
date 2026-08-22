@@ -2,13 +2,13 @@
   <img src="./username.png" width="100%">
 </p>
 
-# 💫 About Me:
+# About Me:
 ![AboutMe](https://img.shields.io/badge/A%2017yo%20programmer%20from%20Poland%20with%20a%20passion%20for%20software%20development.-000000?style=for-the-badge&logoColor=white)
 
 
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -33,12 +33,9 @@
 ![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=D3vUserName&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 💰 You can help me by Donating
+## You can help me by Donating
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/420username)
 
   
