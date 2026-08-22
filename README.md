@@ -47,21 +47,12 @@
 <h1 align="center">Contact:</h1>
 
 <div align="center">
-  <button onclick="copyDiscord()" style="background:none; border:none; cursor:pointer;">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </button>
-</div>
 
-<script>
-function copyDiscord() {
-  const discordName = "420username.";
-  navigator.clipboard.writeText(discordName).then(() => {
-    alert("Skopiowano nazwę Discord: " + discordName);
-  }).catch(() => {
-    alert("Nie udało się skopiować. Spróbuj ręcznie.");
-  });
-}
-</script>
+  <a href="https://discord.com/users/280380151584260097" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  
+</div>
 ---
 
 <h2 align="center">You can help me by Donating</h2>
