@@ -2,9 +2,7 @@
   <img src="./username.png" width="100%">
 </p>
 
-<div align="center">
-# About Me:
-</div>
+<h1 align="center">About Me:</h1>
 
 <div align="center">
 
@@ -14,17 +12,10 @@
 
 </div>
 
-
-
-
-</div>
+<h1 align="center">Tech Stack:</h1>
 
 <div align="center">
 
-# Tech Stack:
-</div>
-
-  
 ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -49,12 +40,16 @@
 ![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
+<h2 align="center">You can help me by Donating</h2>
+
 <div align="center">
-  
-## You can help me by Donating
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/420username)
 
 </div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
