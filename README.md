@@ -12,6 +12,8 @@
 
 </div>
 
+---
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -44,6 +46,7 @@
       </div>
     </td>
     <td valign="middle" align="center" width="50%">
+      <h2>My Stats:</h2>
       <img src="https://vani-stats.vercel.app/api?username=DevUs3rName&theme=dark" alt="Vani Stats" style="width: 100%; max-width: 500px; height: auto;" />
     </td>
   </tr>
