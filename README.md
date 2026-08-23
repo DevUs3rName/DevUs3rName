@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h1 align="center">Tech Stack:</h1>
       <div align="center">
         <!-- Twoje badge'y -->
@@ -43,8 +43,8 @@
         <img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       </div>
     </td>
-    <td valign="middle" align="center" style="padding-left: 40px;">
-      <img src="https://vani-stats.vercel.app/api?username=DevUs3rName&theme=dark" alt="Vani Stats" />
+    <td valign="middle" align="center" width="50%">
+      <img src="https://vani-stats.vercel.app/api?username=DevUs3rName&theme=dark" alt="Vani Stats" style="width: 100%; max-width: 500px; height: auto;" />
     </td>
   </tr>
 </table>
