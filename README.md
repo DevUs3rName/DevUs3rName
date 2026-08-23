@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       </div>
     </td>
-    <td valign="top" width="30%" align="center">
+    <td valign="top" width="50%" align="center">
       <img src="https://vani-stats.vercel.app/api?username=DevUs3rName&theme=dark" alt="Vani Stats" />
     </td>
   </tr>
