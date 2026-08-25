@@ -5,67 +5,66 @@
 <h1 align="center">About Me:</h1>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=80&lines=Programmer+from+Poland" width="90%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=80&lines=with+a+passion+for+software+development" width="90%" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=80&lines=Programmer+from+Poland" width="90%" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=40&duration=4000&pause=300&color=9CA3AF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=70&lines=with+a+passion+for+software+development" width="90%" />
 </div>
 
 ---
 
 <h1 align="center">Tech Stack:</h1>
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-000000.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/php-000000.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-000000.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-000000.svg?style=for-the-badge&logo=.net&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-000000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![OVH](https://img.shields.io/badge/ovh-000000.svg?style=for-the-badge&logo=ovh&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/adobe%20creative%20cloud-000000.svg?style=for-the-badge&logo=adobe%20creative%20cloud&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-000000.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/adobe%20indesign-000000.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-000000?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-000000?style=flat-square&logo=.net&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OVH-000000?style=flat-square&logo=ovh&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-000000?style=flat-square&logo=adobecreativecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-000000?style=flat-square&logo=adobeindesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
 <h1 align="center">Contact:</h1>
 
-<div align="center">
-
-  <a href="https://discord.com/users/280380151584260097" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<p align="center">
+  <a href="https://discord.com/users/280380151584260097">
+    <img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white" />
   </a>
-  
-</div>
+</p>
 
 ---
 
 <h2 align="center">You can help me by Donating</h2>
 
-<div align="center">
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/420username)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/420username)
-
-</div>
+<p align="center">
+  <a href="https://buymeacoffee.com/420username">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/420username">
+    <img src="https://img.shields.io/badge/Ko--fi-000000?style=flat-square&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
