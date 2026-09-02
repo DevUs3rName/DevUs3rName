@@ -68,7 +68,4 @@
 
 </div>
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/280380151584260097?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/280380151584260097)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
