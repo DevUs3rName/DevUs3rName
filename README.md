@@ -55,10 +55,6 @@
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   
-  <a href="https://devus3rname.github.io/DevUs3rName/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-  
 </div>
 
 <div align="center">
